@@ -1,0 +1,17 @@
+body {
+    font-family: cursive;
+    background-color:black;
+    text-align: center;
+    color:orange;
+}
+a:link, a:visited {
+    color: orange;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+}
+  
+a:hover, a:active {
+    background-color:orange;
+    color:black;
+}
