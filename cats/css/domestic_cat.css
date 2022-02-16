@@ -1,0 +1,18 @@
+body {
+    font-family: cursive;
+    background-color: rgb(255, 0, 119);
+    text-align: center;
+    color:peachpuff;
+}
+  
+a:link, a:visited {
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+}
+  
+a:hover, a:active {
+    background-color: rgb(236, 180, 241);
+    color:rgb(245, 13, 226);
+}
