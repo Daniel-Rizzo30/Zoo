@@ -1,5 +1,27 @@
+html {
+  min-height: 100%;
+  background-image: url(../img/horizon.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+/*Background image taken from pxhere.com*/
 body {
-    font-family: Gill Sans, sans-serif;
-    background-color: salmon;
-    text-align: center;
-  }
+  font-family:'Courier New', Courier;
+  text-align: center;
+  color:rgb(5, 7, 121);
+  font-size: large;
+  font-weight: bolder;
+}
+
+a:link, a:visited {
+  color:rgb(6, 20, 146);
+  padding: 30px 45px;
+  text-align: center;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color:rgb(8, 30, 128);
+  color:aqua;
+}
